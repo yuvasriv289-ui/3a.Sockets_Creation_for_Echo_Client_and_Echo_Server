@@ -45,10 +45,10 @@ while True:
     print("Server echoed:", data)
 client_socket.close()
 ```
-## OUPUT
+## OUPUT 1
 <img width="1314" height="211" alt="echo server" src="https://github.com/user-attachments/assets/eb0515d4-ac2d-44e3-ad44-1aca86a06e75" />
 
-
+## OUTPUT 2
 <img width="1251" height="216" alt="echi client" src="https://github.com/user-attachments/assets/da75498c-2c66-4ea7-a2fd-8c620b403008" />
 
 
